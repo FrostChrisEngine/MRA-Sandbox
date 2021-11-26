@@ -1,0 +1,22 @@
+MRA APPLICATION IN PHP
+
+**Login Details**
+
+Username : Khili
+Password : 123
+
+**Developed by Christian Jiah**
+
+Create a database named registration and import the sql file and run. The system can still consume the API but
+it still needs the sql file to be imported.
+To create your database, you may use the console provide by the Wamp Server 
+where you will manually insert queries in the console window to create your database and populate it. 
+Alternatively, you can create and populate your date using the GUI in the phpMyAdmin. 
+To access this, just go to your browser and access 127.0.0.1. 
+This will bring you a GUI with phpMyAdmin from which you can be able to create a database and 
+populate the tables much simpler.
+
+From there you can paste the file folder into the root file of the www folder if you are using WAMP or XAMPP.
+
+From there you can access the system via localhost/customers in your browser.
+
